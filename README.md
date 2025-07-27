@@ -34,6 +34,15 @@ I enjoy solving real-world problems, especially in the domain of **agriculture-t
 
 ---
 
+## 🎓 Education
+
+**Bachelor of Engineering (B.E.) in Information Technology**  
+📍 Terna Engineering College, Navi Mumbai  
+📅 Completed: 2025  
+📈 **CGPA:** 8.04 / 10
+
+---
+
 ## 🚀 Projects
 
 ### 🌾 [AgriConnect](https://github.com/avinashaldar/agriconnect)
