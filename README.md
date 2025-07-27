@@ -43,14 +43,14 @@ Simplified platform for farmers and sellers to trade crops and fertilizers via a
 | Java, SQL, MySQL     | JDBC, Servlets, Hibernate  | HTML, CSS, JavaScript  | OOP, DSA, Git, GitHub        |
 
 ---
-
+<!--
 ## 📊 GitHub Stats
-
 ##![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinashaldar&show_icons=true&theme=github_dark)
 
 ##![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashaldar&layout=compact&theme=github_dark)
 
 ---
+-->
 
 ## 📫 Connect with Me
 
