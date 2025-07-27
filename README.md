@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/avinashaldar/avinashaldar/main/myphoto.jpg](https://github.com/avinashaldar/avinashaldar/commit/750437cbf152507076d2173daba16f40631d1f3e)" width="150" height="150" style="border-radius: 50%;" alt="Avinash Aldar" />
+  <img src="https://github.com/avinashaldar/avinashaldar/commit/750437cbf152507076d2173daba16f40631d1f3e" width="150" height="150" style="border-radius: 50%;" alt="Avinash Aldar" />
 </p>
 
 <h1 align="center">👋 Hello! I'm Avinash Aldar</h1>
