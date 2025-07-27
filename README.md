@@ -39,7 +39,7 @@ I enjoy solving real-world problems, especially in the domain of **agriculture-t
 
 ## 🚀 Projects
 
-### 🌾 [AgriConnect]
+### 🌾 AgriConnect
 **Tech Stack:** JavaScript, HTML, CSS, Machine Learning  
 A smart agricultural platform that:
 - Connects farmers with trusted merchants  
@@ -48,7 +48,7 @@ A smart agricultural platform that:
 
 ---
 
-### 🌱 [FarmEasy]
+### 🌱 FarmEasy
 **Tech Stack:** HTML, CSS, JavaScript, PHP  
 An intuitive platform that facilitates crop and fertilizer trade between farmers and sellers with a clean user interface.
 
