@@ -23,14 +23,13 @@
 
 I'm a dedicated and detail-oriented **Full Stack Developer** with a strong foundation in both backend and frontend development. My expertise lies in building efficient, scalable, and user-centric web applications using modern technologies.
 
-**What I bring:**
-- 🔹 Core Java, JDBC, Servlets, Hibernate
-- 🔹 HTML, CSS, JavaScript
-- 🔹 SQL, MySQL
-- 🔹 Object-Oriented Programming (OOP), DSA
-- 🔹 Git & GitHub for version control
+I specialize in:
+- ✅ **Core Java, JDBC, Servlets, Hibernate**
+- ✅ **HTML, CSS, JavaScript**
+- ✅ **SQL, MySQL, Object-Oriented Programming**
+- ✅ **Data Structures & Algorithms**
 
-I enjoy solving real-world problems, especially in the domain of **agriculture-tech**, and I'm passionate about writing clean, maintainable code.
+I enjoy solving real-world problems, especially in the domain of **agriculture-tech**, and I constantly strive to build software that is practical, impactful, and performance-driven.
 
 ---
 
@@ -58,7 +57,7 @@ An intuitive platform that facilitates crop and fertilizer trade between farmers
 | Java, SQL, MySQL     | JDBC, Servlets, Hibernate  | HTML, CSS, JavaScript  | OOP, DSA, Git, GitHub        |
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -67,11 +66,8 @@ An intuitive platform that facilitates crop and fertilizer trade between farmers
 </p>
 
 ---
+-->
 
-## 📫 Let's Connect
 
-Feel free to reach out if you want to collaborate on projects, need mentorship, or just want to connect!
-
-> *"Strive for clean code, meaningful impact, and continuous growth."*
 
 ---
