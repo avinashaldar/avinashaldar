@@ -28,7 +28,7 @@ I'm a dedicated and detail-oriented **Full Stack Developer** with a strong found
 
 I specialize in:
 - ✅ **Core Java, JDBC, Servlets, Hibernate**
-- ✅ **HTML, CSS, JavaScript**
+- ✅ **HTML, CSS, JavaScript, React JS**
 - ✅ **SQL, MySQL, Object-Oriented Programming**
 - ✅ **Data Structures & Algorithms**
 
