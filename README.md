@@ -27,10 +27,15 @@ I'm a dedicated and detail-oriented **Full Stack Developer** with a strong found
 🎓 I hold a **Bachelor of Engineering in Information Technology** from **Terna Engineering College, Navi Mumbai** with a **CGPA of 8.04**.
 
 I specialize in:
-- ✅ **Core Java, JDBC, Servlets, Hibernate**
-- ✅ **HTML, CSS, JavaScript, React JS**
-- ✅ **SQL, MySQL, Object-Oriented Programming**
-- ✅ **Data Structures & Algorithms**
+- 🚀 **Java Backend Development** – Core Java, JDBC, Servlets, Hibernate, Spring Boot, REST API development  
+- ⚡ **Frontend Development** – HTML5, CSS3, JavaScript (ES6+), React.js  
+- 🗄️ **Database Management** – MySQL, PostgreSQL, SQL Query Optimization, Relational Design  
+- 🧠 **Data Structures & Algorithms** – Efficient problem-solving using optimized approaches  
+- 🔗 **Full Stack Development** – Building end-to-end scalable web applications   
+- 🛠️ **Tools & Platforms** – Git, GitHub, Postman, VS Code  
+
+---
+
 
 I enjoy solving real-world problems, especially in the domain of **agriculture-tech**, and I constantly strive to build software that is practical, impactful, and performance-driven.
 
@@ -53,14 +58,21 @@ A smart agricultural platform that:
 An intuitive platform that facilitates crop and fertilizer trade between farmers and sellers with a clean user interface.
 
 ---
-
 ## 🛠️ Tech Stack
 
-| Languages & DB       | Backend Technologies       | Frontend Tools         | Concepts & Tools             |
-|----------------------|----------------------------|------------------------|------------------------------|
-| Java, SQL, MySQL     | JDBC, Servlets, Hibernate  | HTML, CSS, JavaScript  | OOP, DSA, Git, GitHub        |
+| Category               | Technologies |
+|------------------------|-------------|
+| 💻 **Programming**      | Java, JavaScript |
+| 🎨 **Frontend**         | HTML5, CSS3, React.js |
+| ⚙️ **Backend**          | Spring Boot, JDBC, Servlets, Hibernate |
+| 🔗 **API Development**  | REST APIs, JSON |
+| 🗄️ **Database**         | MySQL, PostgreSQL |
+| 🔧 **Tools & Platforms**| Git, GitHub, Postman, VS Code |
+| 🧠 **Core Concepts**    | OOP, DSA, MVC Architecture |
 
 ---
+
+
 <!--
 ## 📊 GitHub Stats
 
